@@ -41,3 +41,27 @@
 - Personalized recommendations: Based on a user's spending habits, suggest personalized budgeting and saving strategies.
 
 - Mobile app: Develop a mobile app that syncs with the PFM website, so users can manage their finances on the go.
+
+
+### Objectives:
+
+- To provide an easy and convenient platform for individuals to manage their finances in one place.
+
+- To help users understand their spending habits, set and track budgets, and reach their financial goals.
+
+- To offer financial education and resources to help users make informed decisions about their money.
+
+- To provide users with access to their credit scores and offer tips on how to improve them.
+
+- To help users manage their debt and create a plan to pay it off.
+
+- To provide users with tools to track the performance of their investments and portfolio.
+
+- To send reminders to users about upcoming bills and payments, so they never miss a payment.
+
+- To integrate with financial institutions and import transactions automatically, so users can see all of their accounts in one place.
+
+- To provide a mobile app that syncs with the PFM website, so users can manage their finances on the go.
+
+- To offer a secure and reliable platform for individuals to manage their financial information and protect their personal data.
+
