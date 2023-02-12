@@ -65,3 +65,25 @@
 
 - To offer a secure and reliable platform for individuals to manage their financial information and protect their personal data.
 
+### Guide for Flowchart:
+
+- User sign up: The user creates an account on the PFM website or app, providing their personal information, financial information, and setting up their security preferences.
+
+- Data import: The PFM website or app imports the user's financial data from their financial institutions using APIs or screen scraping.
+
+- Data aggregation: The PFM website or app aggregates the user's financial data, categorizes their transactions, and presents it to the user in an organized manner.
+
+- Budgeting and tracking: The PFM website or app helps the user set a budget, track their spending, and view their financial information in real-time.
+
+- Financial education: The PFM website or app provides financial education resources, calculators, and advice to help the user make informed decisions about their money.
+
+- Bill reminders: The PFM website or app sends reminders to the user about upcoming bills and payments.
+
+- Debt management: The PFM website or app helps the user manage their debt, track their progress, and create a plan to pay it off.
+
+- Investment tracking: The PFM website or app helps the user track the performance of their investments and portfolio.
+
+- Mobile app: The PFM website or app includes a mobile app that syncs with the website, allowing the user to manage their finances on the go.
+
+- Data security: The PFM website or app implements security measures to protect the user's financial and personal information.
+
